@@ -26,8 +26,3 @@ export default Fallback404;
 The result:
 
 <img width="406" height="219" alt="{D044DA28-EFCA-43AA-8C84-B33DACD69427}" src="https://github.com/user-attachments/assets/2ad92ed7-68d5-46e7-a019-5257ce6df68d" />
-
-
-
-# Docs
-Coming soon.
